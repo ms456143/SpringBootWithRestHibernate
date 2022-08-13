@@ -1,0 +1,5 @@
+package com.MahendraIT.Configuration;
+
+public class HibernateConfiguration {
+
+}
